@@ -35,3 +35,6 @@ npm install
 3)Start Server
 node server.js
 4)  Open http://localhost:3000 in your browser.
+
+License
+I have used the GNU General Public License as i want the project to be readily available to all. They can make changes they want. It should be a truly free software.
