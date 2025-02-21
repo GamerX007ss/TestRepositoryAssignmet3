@@ -28,7 +28,7 @@ Git
 Steps
 
 1)Clone the repository:
-git clone https://github.com/yourusername/ayurveda-consultation.git
+git clone https://github.com/GamerX007ss/TestRepositoryAssignmet3
 cd ayurveda-consultation
 2)Install dependencies:
 npm install
